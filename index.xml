@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muslum Ozgur Ozmen on Muslum Ozgur Ozmen</title>
-    <link>/</link>
+    <link>https://ozgurozmen.github.io/</link>
     <description>Recent content in Muslum Ozgur Ozmen on Muslum Ozgur Ozmen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,28 +11,28 @@
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://ozgurozmen.github.io/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/post/</guid>
+      <guid>https://ozgurozmen.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://ozgurozmen.github.io/publication/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>https://ozgurozmen.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://ozgurozmen.github.io/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>https://ozgurozmen.github.io/talk/</guid>
       <description></description>
     </item>
     
