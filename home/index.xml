@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Muslum Ozgur Ozmen</title>
-    <link>https://ozgurozmen.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Muslum Ozgur Ozmen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://ozgurozmen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ozgurozmen.github.io/home/about/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0400</pubDate>
+      <link>/home/about/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://ozgurozmen.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography Muslum Ozgur Ozmen received his master of science degree in computer science from Oregon State University, USA and his bachelor‘s degree in electrical and electronics engineering from the Bilkent University, Turkey. He is currently pursuing a PhD degree in computer science with the School of Electrical Engineering and Computer Science, Oregon State University. His research interests include light-weight cryptography for IoT systems (drones and medical devices), wireless sensor network security, privacy enhancing technologies (dynamic symmetric and public key based searchable encryption) and post-quantum cryptography.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ozgurozmen.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ozgurozmen.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
