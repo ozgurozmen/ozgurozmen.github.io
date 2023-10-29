@@ -38,7 +38,7 @@ News
 
 
 
-Publications
+Selected Publications
 ============
 <ul>
 	<li><b>Evasion Attacks and Defenses on Smart Home Physical Event Verification</b>
