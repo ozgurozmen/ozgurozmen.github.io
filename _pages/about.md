@@ -51,7 +51,7 @@ Publications
 			<br/>
 			Habiba Farrukh<sup>*</sup>, <b>Muslum Ozgur Ozmen<sup>*</sup></b>, Kerem Ors and Z. Berkay Celik
 			<br/>
-			IEEE S&P 2023 (<sup>*</sup> equal contribution, Acceptance Rate: 17%) <a href='https://www.researchgate.net/profile/Muslum-Ozgur-Ozmen/publication/366182520_One_Key_to_Rule_Them_All_Secure_Group_Pairing_for_Heterogeneous_IoT_Devices/links/6395603a484e65005bff0aaa/One-Key-to-Rule-Them-All-Secure-Group-Pairing-for-Heterogeneous-IoT-Devices.pdf'>[Paper]</a> <br/>
+			IEEE S&P 2023 ( <sup>*</sup>equal contribution, Acceptance Rate: 17%) <a href='https://www.researchgate.net/profile/Muslum-Ozgur-Ozmen/publication/366182520_One_Key_to_Rule_Them_All_Secure_Group_Pairing_for_Heterogeneous_IoT_Devices/links/6395603a484e65005bff0aaa/One-Key-to-Rule-Them-All-Secure-Group-Pairing-for-Heterogeneous-IoT-Devices.pdf'>[Paper]</a> <br/>
 	</li>
 	<li><b>Discovering Adversarial Driving Maneuvers against Autonomous Vehicles</b>
 			<br/>
