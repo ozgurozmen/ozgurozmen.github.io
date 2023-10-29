@@ -1,1 +1,0 @@
-# ozgurozmen.github.io
