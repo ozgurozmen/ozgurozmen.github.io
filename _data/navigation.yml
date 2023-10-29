@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "News"
+    url: /#news
+ 
+  - title: "Selected Publications"
+    url: /#selectedpublications
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "Teaching"
+    url: /#teaching
+    
+  - title: "CV"
+    url: /files/CV.pdf
+
