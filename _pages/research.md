@@ -29,11 +29,8 @@ While designing IoTSeer, I noticed the complex physical interactions between IoT
  <p align="center">
     <a href='https://www.youtube.com/watch?v=-KMfcjscsMo&t=16s&ab_channel=NDSSSymposium'>
       <img src="/files/evasion.png"
-          style="display:block;
-          width: 500px;
-          height: auto;"
            alt="NDSS 2023 - Evasion Attacks and Defenses Presentation"
-           style="display:block; margin-left: auto; margin-right: auto;" />
+           style="display:block; width: 500px; height: auto;" />
     </a>
     <br>
     <em>NDSS 2023 - Evasion Attacks and Defenses Presentation</em>
