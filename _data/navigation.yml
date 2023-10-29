@@ -3,8 +3,8 @@ main:
   - title: "News"
     url: /#news
  
-  - title: "Selected Publications"
-    url: /#selectedpublications
+  - title: "Publications"
+    url: /#publications
 
   - title: "Research"
     url: /research/

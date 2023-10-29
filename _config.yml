@@ -176,7 +176,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  selectedpublications:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
