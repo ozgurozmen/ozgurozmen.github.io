@@ -152,7 +152,7 @@ Professional Activity
 				IEEE Transactions on Information Forensics and Security 2023
 			</li>
 			<li>
-				IEEE Transactions on Information Forensics and Security 2023
+				ACM Transactions on Internet of Things 2023
 			</li>
 			<li>
 				IEEE Internet of Things Journal 2022
