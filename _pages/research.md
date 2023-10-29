@@ -10,8 +10,8 @@ My research improves the security of emerging computing systems and their intera
  <p align="center">
  <img src="/files/iotseer.png"
      style="display:block;
-        margin-left: auto;
-        margin-right: auto;" />
+        width: 500px;
+        height: auto;" />
  <br>
  <em>Physical interactions in IoT environments.</em>
  </p>
@@ -43,10 +43,10 @@ I found that the physical interactions of IoT devices can serve as proof-of-copr
 <!-- </p> -->
 
  <p align="center">
- <img src="/files/iotcupid.jpg"
+ <img src="/files/iotcupid.png"
      style="display:block;
-        margin-left: auto;
-        margin-right: auto;" />
+        width: 300px;
+        height: auto;" />
  <br>
  <em>Overview of IoTCupid.</em>
  </p>
