@@ -193,7 +193,10 @@ Teaching
 		Teaching Assistant, CS496 - Mobile and Cloud Software Development, Oregon State University
 	</li>
 	<li>
-		Teaching Assistant, CS261 - Data Structures, CS/ECE578 - Cyber-security, Oregon State University
+		Teaching Assistant, CS261 - Data Structures, Oregon State University
+	</li>
+	<li>
+		Teaching Assistant, CS/ECE578 - Cyber-security, Oregon State University
 	</li>
 	<li>
 		Teaching Assistant, CS492 - Mobile Software Development, Oregon State University
