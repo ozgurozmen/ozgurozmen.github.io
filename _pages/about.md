@@ -32,7 +32,7 @@ News
 		[Oct 2022] Our work about evasion attacks and defenses on physical event verification systems is accepted to NDSS 2023!
 	</li>
 	<li>
-		[Aug 2022] Our work on discovering IoT physical channel vulnerabilities is accepted to NDSS 2023!
+		[Aug 2022] Our work on discovering IoT physical channel vulnerabilities is accepted to ACM CCS 2022!
 	</li>
 </ul>
 
