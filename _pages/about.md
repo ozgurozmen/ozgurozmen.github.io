@@ -16,8 +16,7 @@ I received my Master of Science degree in Computer Science from Oregon State Uni
 
 
 
-News
-============
+<h2 id="news">News</h2>
 <ul>
 	<li>
 		[Sep 2023] I am invited to NSA’s Center of Academic Excellence in Cybersecurity Research Symposium as a panelist!
@@ -39,7 +38,6 @@ News
 
 
 <h2 id="publications">Selected Publications</h2>
-============
 <ul>
 	<li><b>Evasion Attacks and Defenses on Smart Home Physical Event Verification</b>
 			<br/>
@@ -111,8 +109,7 @@ News
 
 
 
-Professional Activity
-==============
+<h2 id="service">Selected Service</h2>
 <ul>
 	<li>
 		<b>Program Committee</b>
@@ -180,8 +177,7 @@ Professional Activity
 
 
 	
-Teaching
-========
+<h2 id="teaching">Teaching</h2>
 <ul>
 	<li>
 		Guest Lecturer, CS426 - Computer Security, Purdue University
