@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L35CRPKX3F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-L35CRPKX3F');
+</script>
 
 I received my Master of Science degree in Computer Science from Oregon State University, USA and my Bachelor‘s degree in Electrical and Electronics Engineering from the Bilkent University, Turkey. I am currently pursuing a PhD degree in the Department of Computer Science at Purdue University under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io). My research interests broadly lie in the area of systems security. Through systems design and formal verification, my research seeks to improve the security and privacy guarantees in emerging computing platforms. My research approach is best illustrated by my work in IoT safety and security.
 
