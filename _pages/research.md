@@ -3,6 +3,16 @@ permalink: /research/
 title: "Research"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L35CRPKX3F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L35CRPKX3F');
+</script>
+
 My research improves the security of emerging computing systems and their interactions with physical spaces through system design, formal methods, and applied cryptography. Here is a summary of some of my research efforts.
 
 ## Ensuring the Safety and Security of IoT Environments [CCS'22, NDSS'23]
