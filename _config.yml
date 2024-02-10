@@ -144,8 +144,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - [vendor]
-  - "bundle/"
 keep_files:
   - .git
   - .svn
@@ -311,3 +309,5 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-cayman
+
+exclude: [vendor]
