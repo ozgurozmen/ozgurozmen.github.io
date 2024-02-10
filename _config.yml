@@ -122,6 +122,8 @@ include:
   - _pages
   - files
 exclude:
+  - vendor
+  - bundle
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
