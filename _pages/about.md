@@ -28,6 +28,9 @@ News
 ============
 <ul>
 	<li>
+		[Mar 2024] I received Purdue CS Department's merit recognition award!
+	</li>
+	<li>
 		[Sep 2023] I was invited to NSA’s Center of Academic Excellence in Cybersecurity Research Symposium as a panelist!
 	</li>
 	<li>
