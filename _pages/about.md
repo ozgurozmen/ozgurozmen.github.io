@@ -28,6 +28,9 @@ News
 ============
 <ul>
 	<li>
+		[Mar 2024] Our work on physical side-channel attacks against intermittent (batteryless) devices is accepted to PoPETs 2024!
+	</li>
+	<li>
 		[Mar 2024] I received Purdue CS Department's merit recognition award!
 	</li>
 	<li>
