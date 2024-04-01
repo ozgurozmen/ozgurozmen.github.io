@@ -20,8 +20,12 @@ redirect_from:
 
 I received my Master of Science degree in computer science from Oregon State University, USA and my Bachelor‘s degree in electrical and electronics engineering from the Bilkent University, Turkey. I am currently pursuing a PhD degree in the Department of Computer Science at Purdue University under the supervision of Dr. [Z. Berkay Celik](https://beerkay.github.io). My research interests broadly lie in the area of systems security. Through systems design and formal verification, my research seeks to improve security and privacy guarantees in emerging computing platforms. My research approach is best illustrated by my work in IoT safety and security.
 
-<p style="color:blue;"> <b> I am currently in the academic job market for Fall 2024! </b> </p> 
+<p style="color:blue;"> <b> I will start as an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a>! </b> </p> 
 
+
+Prospective Students
+============
+<b> [Spring/Fall 25] <b> I am looking for motivated Ph.D. students and research interns who are interested in security and privacy. If you are interested in working with me, please reach out to me through email.
 
 
 News
