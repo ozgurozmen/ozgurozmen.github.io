@@ -32,6 +32,9 @@ News
 ============
 <ul>
 	<li>
+		[Apr 2024] I received the Diamond Award for Academic excellence from the Center for Education and Research in Information Assurance and Security (<a href='https://www.cerias.purdue.edu/'>CERIAS</a>) at Purdue University!
+	</li>
+	<li>
 		[Mar 2024] Our work on physical side-channel attacks against intermittent (batteryless) devices is accepted to PoPETs 2024!
 	</li>
 	<li>
