@@ -62,6 +62,12 @@ News
 Selected Publications
 ============
 <ul>
+	<li><b>Physical Side-Channel Attacks against Intermittent Devices</b>
+			<br/>
+			<b>Muslum Ozgur Ozmen</b>, Habiba Farrukh and Z. Berkay Celik
+			<br/>
+			PoPETs 2024 (Acceptance Rate: 19.5%) <a href='https://www.researchgate.net/profile/Muslum-Ozgur-Ozmen/publication/378994981_Physical_Side-Channel_Attacks_against_Intermittent_Devices/links/65f510021f0aec67e2949786/Physical-Side-Channel-Attacks-against-Intermittent-Devices.pdf'>[Paper]</a> <br/>
+	</li>
 	<li><b>Evasion Attacks and Defenses on Smart Home Physical Event Verification</b>
 			<br/>
 			<b>Muslum Ozgur Ozmen</b>, Ruoyu Song, Habiba Farrukh and Z. Berkay Celik
