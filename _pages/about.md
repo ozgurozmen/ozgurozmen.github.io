@@ -20,7 +20,7 @@ redirect_from:
 
 I am an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a>.  My research interests broadly lie in the area of systems security. Through systems design and formal verification, my research seeks to improve security and privacy guarantees in emerging computing platforms. 
 
-I received my Ph.D. in Computer Science from Purdue University under the supervision of Dr. [Z. Berkay Celik](https://beerkay.github.io). My dissertation focused on achieving compositional security and privacy in IoT environments. 
+I received my Ph.D. in Computer Science from Purdue University under the supervision of Dr. <a href='https://beerkay.github.io'>Z. Berkay Celik</a>. My dissertation focused on achieving compositional security and privacy in IoT environments. 
 
 
 Prospective Students
