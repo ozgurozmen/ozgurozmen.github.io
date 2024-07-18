@@ -32,6 +32,9 @@ News
 ============
 <ul>
 	<li>
+		[Jun 2024] Our work on the security of industrial control systems is accepted to Usenix Security 2024!
+	</li>
+	<li>
 		[Apr 2024] I received the Diamond Award for Academic excellence from the Center for Education and Research in Information Assurance and Security (<a href='https://www.cerias.purdue.edu/'>CERIAS</a>) at Purdue University!
 	</li>
 	<li>
@@ -42,9 +45,6 @@ News
 	</li>
 	<li>
 		[Sep 2023] I was invited to NSA’s Center of Academic Excellence in Cybersecurity Research Symposium as a panelist!
-	</li>
-	<li>
-		[May 2023] I am starting a research internship at <a href='https://amrd.toyota.com/division/trina/'>Toyota Research Institute North America</a>!
 	</li>
 	<li>
 		[Nov 2022] Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
