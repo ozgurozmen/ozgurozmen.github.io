@@ -18,9 +18,9 @@ redirect_from:
   gtag('config', 'G-L35CRPKX3F');
 </script>
 
-I received my Master of Science degree in computer science from Oregon State University, USA and my Bachelor‘s degree in electrical and electronics engineering from the Bilkent University, Turkey. I am currently pursuing a PhD degree in the Department of Computer Science at Purdue University under the supervision of Dr. [Z. Berkay Celik](https://beerkay.github.io). My research interests broadly lie in the area of systems security. Through systems design and formal verification, my research seeks to improve security and privacy guarantees in emerging computing platforms. My research approach is best illustrated by my work in IoT safety and security.
+I am an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a>.  My research interests broadly lie in the area of systems security. Through systems design and formal verification, my research seeks to improve security and privacy guarantees in emerging computing platforms. 
 
-<p style="color:blue;"> <b> I will start as an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a> in Fall 2024! </b> </p> 
+I received my Ph.D. in Computer Science from Purdue University under the supervision of Dr. [Z. Berkay Celik](https://beerkay.github.io). My dissertation focused on achieving compositional security and privacy in IoT environments. 
 
 
 Prospective Students

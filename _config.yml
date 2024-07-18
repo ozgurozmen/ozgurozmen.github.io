@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muslum Ozgur Ozmen"
 title_separator          : "-"
 name                     : &name "Muslum Ozgur Ozmen"
-description              : &description "Ph.D. Candidate @ Purdue CS"
+description              : &description "Assistant Professor @ ASU"
 url                      : https://ozgurozmen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozgurozmen/ozgurozmen.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Muslum Ozgur Ozmen"
   avatar           : "headshot.jpg"
-  bio              : "Ph.D. Candidate @ Purdue CS"
+  bio              : "Assistant Professor @ ASU"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MSBT_V4AAAAJ&hl=en&oi=ao"
-  email            : "mozmen@purdue.edu"
+  email            : "ozmen@asu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
