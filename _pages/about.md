@@ -145,22 +145,31 @@ Professional Activity
 		<b>Program Committee</b>
 		<ul>
 			<li>
+				IEEE Symposium on Security and Privacy (S&P) 2025
+			</li>
+			<li>
+				IEEE Computer Security Foundations (CSF) 2025
+			</li>
+			<li>
+				IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2025
+			</li>
+			<li>
 				ACM Conference on Data and Application Security and Privacy (CODASPY) 2024
+			</li>
+			<li>
+				IEEE Secure Development Conference (SecDev) 2024
 			</li>
 			<li>
 				Symposium on Vehicle Security and Privacy (VehicleSec) 2024
 			</li>
 			<li>
-				IEEE International Conference on Smart Grid Communications (SmartGridComm) 2023
+				IEEE International Conference on Smart Grid Communications (SmartGridComm) 2023, 2024
 			</li>
 			<li>
 				Workshop on CPS&IoT Security and Privacy (CPSIoTSec) 2023
 			</li>
 			<li>
 				IEEE/ACM Workshop on the Internet of Safe Things (SafeThings) 2023
-			</li>
-			<li>
-				ICDM Machine Learning for Cybersecurity (MLC) 2023
 			</li>
 			<li>
 				Workshop on Re-design Industrial Control Systems with Security (RICSS) 2023
@@ -173,13 +182,19 @@ Professional Activity
 		<b>Reviewer</b>
 		<ul>
 			<li>
+				IEEE Transactions on Dependable and Secure Computing (TDSC) 2024
+			</li>
+			<li>
+				IEEE Transactions on Automation Science and Engineering (TASE) 2024
+			</li>
+			<li>
+				ACM Transactions on Internet Technology (TOIT) 2024
+			</li>
+			<li>
 				ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/Ubicomp) 2023
 			</li>
 			<li>
-				IEEE Transactions on Information Forensics and Security 2023
-			</li>
-			<li>
-				IEEE Transactions on Information Forensics and Security 2023
+				IEEE Transactions on Information Forensics and Security (TIFS) 2023, 2024
 			</li>
 			<li>
 				IEEE Internet of Things Journal 2022

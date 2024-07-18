@@ -1,6 +1,5 @@
 ---
-permalink: /research/
-title: "Research"
+
 ---
 
 <!-- Google tag (gtag.js) -->
