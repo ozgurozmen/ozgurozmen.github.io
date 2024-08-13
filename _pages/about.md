@@ -53,7 +53,7 @@ News
 		[Oct 2022] Our work about evasion attacks and defenses on physical event verification systems is accepted to NDSS 2023!
 	</li>
 	<li>
-		[Aug 2022] Our work on discovering IoT physical channel vulnerabilities is accepted to NDSS 2023!
+		[Aug 2022] Our work on discovering IoT physical channel vulnerabilities is accepted to CCS 2022!
 	</li>
 </ul>
 
@@ -62,11 +62,17 @@ News
 Selected Publications
 ============
 <ul>
+	<li><b>SAIN: Improving ICS Attack Detection Sensitivity via State-Aware Invariants</b>
+			<br/>
+			Syed Ghazanfar Abbas, <b>Muslum Ozgur Ozmen</b>, Abdulellah Alsaheel, Arslan Khan, Z. Berkay Celik, and Dongyan Xu
+			<br/>
+			Usenix Security 2024 <a href='https://www.usenix.org/conference/usenixsecurity24/presentation/abbas'>[Paper]</a> <br/>
+	</li>
 	<li><b>Physical Side-Channel Attacks against Intermittent Devices</b>
 			<br/>
 			<b>Muslum Ozgur Ozmen</b>, Habiba Farrukh and Z. Berkay Celik
 			<br/>
-			PoPETs 2024 (Acceptance Rate: 19.5%) <a href='https://www.researchgate.net/profile/Muslum-Ozgur-Ozmen/publication/378994981_Physical_Side-Channel_Attacks_against_Intermittent_Devices/links/65f510021f0aec67e2949786/Physical-Side-Channel-Attacks-against-Intermittent-Devices.pdf'>[Paper]</a> <br/>
+			PoPETs 2024 (Acceptance Rate: 19.5%) <a href='https://petsymposium.org/popets/2024/popets-2024-0088.pdf'>[Paper]</a> <br/>
 	</li>
 	<li><b>Evasion Attacks and Defenses on Smart Home Physical Event Verification</b>
 			<br/>
@@ -115,18 +121,6 @@ Selected Publications
 			Hyungsub Kim, <b>Muslum Ozgur Ozmen</b>, Antonio Bianchi, Z. Berkay Celik, and Dongyan Xu
 			<br/>
 			NDSS 2021 (Acceptance Rate: 15.2%) <a href='https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-1_24096_paper.pdf'>[Paper]</a> <br/>
-	</li>
-	<li><b>Fast Authentication from Aggregate Signatures with Improved Security</b>
-			<br/>
-			<b>Muslum Ozgur Ozmen</b>,  Rouzbeh Behnia and Attila Yavuz
-			<br/>
-			Financial Cryptography and Data Security (FC) 2019 (Acceptance Rate: 21.9%) <a href='http://www.ifca.ai/fc19/preproceedings/32-preproceedings.pdf'>[Paper]</a> <br/>
-	</li>
-	<li><b>TACHYON: Fast Signatures from Compact Knapsack</b>
-			<br/>
-			Rouzbeh Behnia, <b>Muslum Ozgur Ozmen</b>, Attila Yavuz and Mike Rosulek
-			<br/>
-			ACM CCS 2018 (Acceptance Rate: 16.6%) <a href='https://www.researchgate.net/profile/Muslum-Ozgur-Ozmen/publication/328322299_TACHYON_Fast_Signatures_from_Compact_Knapsack/links/5bcf6a5b299bf1a43d9b380f/TACHYON-Fast-Signatures-from-Compact-Knapsack.pdf'>[Paper]</a> <br/>
 	</li>
 </ul>
 
