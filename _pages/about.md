@@ -66,7 +66,7 @@ Selected Publications
 			<br/>
 			Syed Ghazanfar Abbas, <b>Muslum Ozgur Ozmen</b>, Abdulellah Alsaheel, Arslan Khan, Z. Berkay Celik, and Dongyan Xu
 			<br/>
-			Usenix Security 2024 <a href='https://www.usenix.org/conference/usenixsecurity24/presentation/abbas'>[Paper]</a> <br/>
+			Usenix Security 2024 (Acceptance Rate: 18.3%) <a href='https://www.usenix.org/conference/usenixsecurity24/presentation/abbas'>[Paper]</a> <br/>
 	</li>
 	<li><b>Physical Side-Channel Attacks against Intermittent Devices</b>
 			<br/>
