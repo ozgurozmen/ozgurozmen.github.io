@@ -25,7 +25,7 @@ I received my Ph.D. in Computer Science from Purdue University under the supervi
 
 Prospective Students
 ============
-<b>[Spring/Fall 25]</b> I am looking for motivated Ph.D. students and research interns who are interested in security and privacy. If you are interested in working with me, please reach out to me through email.
+<b>[Summer/Fall 25]</b> I am looking for research interns (remote or in-person) who are interested in security and privacy. If you are interested in working with me, please reach out to me through email.
 
 
 News
