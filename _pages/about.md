@@ -23,9 +23,6 @@ I am an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>S
 I received my Ph.D. in Computer Science from Purdue University under the supervision of Dr. <a href='https://beerkay.github.io'>Z. Berkay Celik</a>. My dissertation focused on achieving compositional security and privacy in IoT environments. 
 
 
-Prospective Students
-============
-<b>[Summer/Fall 25]</b> I am looking for research interns (remote or in-person) who are interested in security and privacy. If you are interested in working with me, please reach out to me through email.
 
 
 News
